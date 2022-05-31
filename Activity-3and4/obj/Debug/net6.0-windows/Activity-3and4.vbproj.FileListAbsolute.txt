@@ -1,0 +1,17 @@
+C:\Users\Akira\source\repos\Activity-3and4\Activity-3and4\bin\Debug\net6.0-windows\Activity-3and4.exe
+C:\Users\Akira\source\repos\Activity-3and4\Activity-3and4\bin\Debug\net6.0-windows\Activity-3and4.deps.json
+C:\Users\Akira\source\repos\Activity-3and4\Activity-3and4\bin\Debug\net6.0-windows\Activity-3and4.runtimeconfig.json
+C:\Users\Akira\source\repos\Activity-3and4\Activity-3and4\bin\Debug\net6.0-windows\Activity-3and4.dll
+C:\Users\Akira\source\repos\Activity-3and4\Activity-3and4\bin\Debug\net6.0-windows\Activity-3and4.pdb
+C:\Users\Akira\source\repos\Activity-3and4\Activity-3and4\obj\Debug\net6.0-windows\Activity-3and4.vbproj.AssemblyReference.cache
+C:\Users\Akira\source\repos\Activity-3and4\Activity-3and4\obj\Debug\net6.0-windows\Activity_3and4.Form1.resources
+C:\Users\Akira\source\repos\Activity-3and4\Activity-3and4\obj\Debug\net6.0-windows\Activity-3and4.vbproj.GenerateResource.cache
+C:\Users\Akira\source\repos\Activity-3and4\Activity-3and4\obj\Debug\net6.0-windows\Activity-3and4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akira\source\repos\Activity-3and4\Activity-3and4\obj\Debug\net6.0-windows\Activity-3and4.AssemblyInfoInputs.cache
+C:\Users\Akira\source\repos\Activity-3and4\Activity-3and4\obj\Debug\net6.0-windows\Activity-3and4.AssemblyInfo.vb
+C:\Users\Akira\source\repos\Activity-3and4\Activity-3and4\obj\Debug\net6.0-windows\Activity-3and4.vbproj.CoreCompileInputs.cache
+C:\Users\Akira\source\repos\Activity-3and4\Activity-3and4\obj\Debug\net6.0-windows\Activity-3and4.dll
+C:\Users\Akira\source\repos\Activity-3and4\Activity-3and4\obj\Debug\net6.0-windows\refint\Activity-3and4.dll
+C:\Users\Akira\source\repos\Activity-3and4\Activity-3and4\obj\Debug\net6.0-windows\Activity-3and4.pdb
+C:\Users\Akira\source\repos\Activity-3and4\Activity-3and4\obj\Debug\net6.0-windows\Activity-3and4.genruntimeconfig.cache
+C:\Users\Akira\source\repos\Activity-3and4\Activity-3and4\obj\Debug\net6.0-windows\ref\Activity-3and4.dll
